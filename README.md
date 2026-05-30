@@ -1,6 +1,7 @@
 **Pumpenanalyse – Strömungsmaschinen Zusatzaufgabe 22744**
 
 **Projektbeschreibung**
+
 Dieses Repository beinhaltet die Auswertung von Betriebsdaten einer industriellen Wasserpumpe mit einem 264 mm Laufrad. Das Verhalten der Anlage wird sowohl technisch als auch wirtschaftlich betrachtet.
 
 **Enthaltene Dateien**
@@ -11,6 +12,7 @@ Dieses Repository beinhaltet die Auswertung von Betriebsdaten einer industrielle
 * 22744.ipynb: Das Jupyter Notebook, welches die vollständige Berechnung, Datenbereinigung und grafische Auswertung enthält.
 
 **Methodik und Berechnungen**
+
 Das Skript führt vollautomatisch folgende Schritte durch:
 
 * Datenaufbereitung mit Glättung: Da die Sensordaten Schwankungen enthalten, wurde ein gleitender Mittelwert berechnet. Durch diesen werden die Daten geglättet und der Betriebstrend zur Visualisierung besser sichtbar gemacht.
@@ -31,6 +33,7 @@ Das Skript führt vollautomatisch folgende Schritte durch:
 * Kostenverlauf: Darstellung der stündlichen Stromkosten, unterteilt in Nutz- und Verlustkosten.
 
 **Ausführung des Codes**
+
 Der Code wurde für die Nutzung in Google Colab optimiert:
 
 * Die Datei 22744.ipynb herunterladen oder direkt in Google Colab öffnen.
