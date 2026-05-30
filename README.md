@@ -2,7 +2,7 @@
 
 **Projektbeschreibung**
 
-Dieses Repository beinhaltet die Auswertung von Betriebsdaten einer industriellen Wasserpumpe mit einem 264 mm Laufrad. Das Verhalten der Anlage wird sowohl technisch als auch wirtschaftlich betrachtet.
+Dieses Repository beinhaltet die Auswertung von Betriebsdaten einer industriellen Wasserpumpe mit einem 269 mm Laufrad. Das Verhalten der Anlage wird sowohl technisch als auch wirtschaftlich betrachtet.
 
 **Enthaltene Dateien**
 * volume_flow_data.csv: Die rohen Messdaten der Sensoren (Volumenstrom und Zeitstempel).
