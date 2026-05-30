@@ -1,4 +1,5 @@
 **Projekt: Pumpen-Performance-Analyse (22744)**
+
 Dieses Repository enthält die automatisierte Auswertung der Betriebsdaten einer industriellen Wasserpumpe.
 Im Rahmen der Zusatzaufgabe für das Modul "Strömungsmaschinen" wird das reale Betriebsverhalten einer Pumpe mit einem 269-mm-Laufrad technisch analysiert und wirtschaftlich bewertet.
 
