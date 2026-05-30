@@ -16,7 +16,7 @@ Datenaufbereitung mit Glättung: Da die Sensordaten Schwankungen enthalten, wurd
 
 Technische Auswertung: Basierend auf der Herstellerkennlinie werden für jeden Messpunkt die Förderhöhe und der Wirkungsgrad ermittelt. Daraus berechnet sich die elektrische Leistungsaufnahme, die hydraulische Nutzleistung und schließlich die ungenutzte Verlustenergie in Kilowattstunden (kWh).
 
-Wirtschaftliche Auswertung: Um die Ineffizienz zu verdeutlichen, werden die Energiewerte mit einem angenommenen Industriestrompreis (0,15 € / kWh) multipliziert. So wird exakt aufgeschlüsselt, welche Kosten durch tatsächliche Nutzung und welche durch Verluste entstehen.
+Wirtschaftliche Auswertung: Um die Ineffizienz zu verdeutlichen, werden die Energiewerte mit einem angenommenen Industriestrompreis (0,18€ / kWh) multipliziert. So wird exakt aufgeschlüsselt, welche Kosten durch tatsächliche Nutzung und welche durch Verluste entstehen.
 
 Grafische Auswertung
 Zur besseren Nachvollziehbarkeit generiert der Code verschiedene Diagramme, darunter:
