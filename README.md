@@ -1,15 +1,15 @@
-* **Pumpenanalyse – Strömungsmaschinen Zusatzaufgabe 22744**
-* **Projektbeschreibung**
+**Pumpenanalyse – Strömungsmaschinen Zusatzaufgabe 22744**
+**Projektbeschreibung**
 Dieses Repository beinhaltet die Auswertung von Betriebsdaten einer industriellen Wasserpumpe mit einem 264 mm Laufrad. Das Verhalten der Anlage wird sowohl technisch als auch wirtschaftlich betrachtet.
 
-* **Enthaltene Dateien**
+**Enthaltene Dateien**
 * volume_flow_data.csv: Die rohen Messdaten der Sensoren (Volumenstrom und Zeitstempel).
 
 * etaline-etlz-200-200-250-ggsav66d303004-bksbie3_ar12649.pdf: Das Datenblatt des Pumpenherstellers.
 
 * 22744.ipynb: Das Jupyter Notebook, welches die vollständige Berechnung, Datenbereinigung und grafische Auswertung enthält.
 
-* **Methodik und Berechnungen**
+**Methodik und Berechnungen**
 Das Skript führt vollautomatisch folgende Schritte durch:
 
 * Datenaufbereitung mit Glättung: Da die Sensordaten Schwankungen enthalten, wurde ein gleitender Mittelwert berechnet. Durch diesen werden die Daten geglättet und der Betriebstrend zur Visualisierung besser sichtbar gemacht.
@@ -18,7 +18,7 @@ Das Skript führt vollautomatisch folgende Schritte durch:
 
 * Wirtschaftliche Auswertung: Um die Ineffizienz zu verdeutlichen, werden die Energiewerte mit einem angenommenen Industriestrompreis (0,18€ / kWh) multipliziert. So wird exakt aufgeschlüsselt, welche Kosten durch tatsächliche Nutzung und welche durch Verluste entstehen.
 
-* **Grafische Auswertung**
+**Grafische Auswertung**
 * Zur besseren Nachvollziehbarkeit generiert der Code verschiedene Diagramme, darunter:
 
 * Volumenstrom-Verlauf: Gegenüberstellung der rohen Sensordaten und des geglätteten Trends.
@@ -29,7 +29,7 @@ Das Skript führt vollautomatisch folgende Schritte durch:
 
 * Kostenverlauf: Darstellung der stündlichen Stromkosten, unterteilt in Nutz- und Verlustkosten.
 
-* **Ausführung des Codes**
+**Ausführung des Codes**
 Der Code wurde für die Nutzung in Google Colab optimiert:
 
 * Die Datei 22744.ipynb herunterladen oder direkt in Google Colab öffnen.
