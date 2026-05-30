@@ -1,4 +1,5 @@
 **Pumpenanalyse – Strömungsmaschinen Zusatzaufgabe 22744**
+
 **Projektbeschreibung**
 Dieses Repository beinhaltet die Auswertung von Betriebsdaten einer industriellen Wasserpumpe mit einem 264 mm Laufrad. Das Verhalten der Anlage wird sowohl technisch als auch wirtschaftlich betrachtet.
 
