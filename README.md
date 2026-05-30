@@ -32,6 +32,10 @@ Das Skript führt vollautomatisch folgende Schritte durch:
 
 * Kostenverlauf: Darstellung der stündlichen Stromkosten, unterteilt in Nutz- und Verlustkosten.
 
+* Zeitlicher Verlauf der Förderhöhe
+
+* Zeitlicher Verlauf des Wirkungsgrades
+
 **Ausführung des Codes**
 
 Der Code wurde für die Nutzung in Google Colab optimiert:
